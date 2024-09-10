@@ -1,0 +1,97 @@
+
+h1{
+    color:rgb(134, 191, 212);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400px;
+    text-align: center;
+    text-decoration: dashed;
+}
+p{
+    color: rgb(237, 231, 222);
+    
+}
+#a2{
+    color: rgb(205, 201, 210);
+    font-size: larger;
+    font-style: bold;
+    font-weight: 100;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: yellowgreen;
+    font-size: larger;
+    font-style: italic;
+
+}
+dt{
+    color: rgb(195, 174, 220);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-shadow: rgb(32, 24, 139);
+    text-decoration: underline;
+}
+dd{
+    color: rgb(233, 224, 233);
+    font-size: larger;
+}
+#i1{
+    float: right;
+}
+#i2{
+    float: left;
+}
+#i3{
+    float: right;
+}
+#w1{
+    background-color: blueviolet;
+    font-weight: bold;
+}
+#y1{
+    float: right;
+}
+
+p{
+    background-repeat: no-repeat;
+    background-position: bottom;
+   
+    background-size: cover;
+}
+ol{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+}
+body{
+    background-image: url(https://aktualita.co.id/wp-content/uploads/2024/04/kopi-750x375.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-size: cover;
+}
+table{
+    background-color: pink;
+}
+h4{
+    color: aqua;
+}
+h2{
+    color: bisque;
+}
+a{
+    color: blanchedalmond;
+}
+.sosmed{
+    color: beige;
+}
+.sosmed{
+    text-align: center;
+}
+.sosmed a{
+    text-decoration: none;
+    margin-right: 20px;
+    text-align: center;
+}
